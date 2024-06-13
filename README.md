@@ -1,4 +1,4 @@
-## Olá! sou a Victor G., estou usando o GitHub
+## Olá! sou a Victor G., estou no GitHub
 
 Victor G. Técnico em Design e estudante de Programação.
 
